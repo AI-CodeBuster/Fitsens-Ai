@@ -1,0 +1,13 @@
+streamlit
+cv2
+mediapipe 
+numpy
+threading
+time
+os
+platform
+PIL 
+pandas 
+sentence_transformers 
+sklearn.metrics.pairwise 
+matplotlib.pyplot 
